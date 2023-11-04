@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgitit=self.webpackChunkgitit||[]).push([[5929],{5133:t=>{t.exports=JSON.parse('{"label":"hello","permalink":"/gitit/blog/tags/hello","allTagsPath":"/gitit/blog/tags","count":2}')}}]);
